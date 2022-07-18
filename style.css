@@ -13,11 +13,17 @@ h1 {
 
 section {
   display: flex;
+  margin-bottom: 200px;
 }
 
 .half-w {
   width: 50%;
   padding-left: 3%;
+}
+
+.topb {
+  background-image: url(images/top-banner.png);
+  background-repeat: no-repeat;
 }
 
 .linkb {
